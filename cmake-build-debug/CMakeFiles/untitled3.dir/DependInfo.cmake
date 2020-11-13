@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Grigory/CLionProjects/untitled3/HashMap.cpp" "C:/Users/Grigory/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/HashMap.cpp.obj"
-  "C:/Users/Grigory/CLionProjects/untitled3/main.cpp" "C:/Users/Grigory/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/main.cpp.obj"
+  "C:/Users/Grigory/CLionProjects/2B/HashMap.cpp" "C:/Users/Grigory/CLionProjects/2B/cmake-build-debug/CMakeFiles/untitled3.dir/HashMap.cpp.obj"
+  "C:/Users/Grigory/CLionProjects/2B/main.cpp" "C:/Users/Grigory/CLionProjects/2B/cmake-build-debug/CMakeFiles/untitled3.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -14,7 +14,7 @@ namespace HashTable{
         void setInfo(char *info);
 
     private:
-        char info[10];
+        char* info;
         int busy;
         int key;
     };
@@ -36,7 +36,7 @@ namespace HashTable{
 
 
     private:
-        Element array[10];
+        Element * array;
         const int capacity = 10;
     };
 }

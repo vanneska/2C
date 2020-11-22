@@ -28,7 +28,7 @@ namespace HashTable{
     public:
 
         HashMap();
-        explicit HashMap(Element *HashMap);
+        explicit HashMap(Element *HashMap);//Single-argument constructors must be marked explicit to avoid unintentional implicit conversions
         int hash(int key);
         void trashCollect();
         char* operator[] (int index);
